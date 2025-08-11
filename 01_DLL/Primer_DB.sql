@@ -23,7 +23,7 @@ VALUES (
     ('María García', 'Informática'),
     (
         'Carlos López',
-        'Sistemas Computacionales'
+        'Sistemas Computacsionales'
     );
 
 -- Consultar datos
